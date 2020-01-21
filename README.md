@@ -1,6 +1,6 @@
 # peso_planetas
 
-A new Flutter project.
+Um projeto básico de teste para cálculo do peso em outros planetas.
 
 ## Getting Started
 
